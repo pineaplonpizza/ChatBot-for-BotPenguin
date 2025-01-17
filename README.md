@@ -83,7 +83,9 @@ python chatbot_rag.py
 
 **chatbot_rag.py:** Implements the RAG system to generate answers using Llama-3.3.
 
-**scraped_content.pdf:** Contains the raw data extracted from the website.
+**Content.pdf:** Contains the raw data extracted from the website.
+
+**requirements.txt:** Contains all the required libraries.
 
 ## Sample Output
 Query: _Can we migrate all message templates created on other platforms?_
