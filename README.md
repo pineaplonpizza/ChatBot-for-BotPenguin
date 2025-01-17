@@ -57,7 +57,9 @@ python web_scraper.py
 ```
 <p>This will save the scraped data in content.txt.</p>
 
-**5. Covert the .txt file to pdf**
+**5. Dependencies**
+> <p>Convert the .txt file to pdf.</p>
+> <p>Save the GROQ API KEY in your .env</p>
 
 **6. Generate Embeddings and Save to ChromaDB**
 <p>To create and persist embeddings:</p>
