@@ -44,7 +44,7 @@ pip install -r requirements.txt
 ```bash
 python web_scraper.py
 ```
-<p>This will save the scraped data in scraped_content.txt.</p>
+<p>This will save the scraped data in content.txt.</p>
 
 **5. Covert the .txt file to pdf**
 
